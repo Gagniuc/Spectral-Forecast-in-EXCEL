@@ -9,7 +9,7 @@ A more complex example that uses the spectral forecast equation is related to ma
 
 [Algorithms in Bioinformatics: Theory and Implementation](https://www.wiley.com/en-ag/Algorithms+in+Bioinformatics%3A+Theory+and+Implementation-p-9781119697961)
 
-<kbd><img src="" /></kbd>
+<kbd><img src="https://github.com/Gagniuc/Spectral-Forecast-in-EXCEL/blob/main/spectral.png?raw=true" /></kbd>
 
 # References
 
